@@ -1,0 +1,1 @@
+../../OpenFace/openface/demos/classifier.py infer generated-embeddings/classifier.pkl c.jpg
